@@ -1,11 +1,11 @@
 
 
-<h3> 🙋‍♂️ Sobre mim </h3>
+<h3> 🙋‍♂️ About Me </h3>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 &nbsp; Desenvolvedor Full-Stack Javascript</a>.
+- 🤔 &nbsp; Skilled ad Ethical Hacking.
+- 💼 &nbsp; Noob Web Dev</a>.
 
 
 
