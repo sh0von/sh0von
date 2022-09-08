@@ -21,3 +21,4 @@
 [![Linkedin: João Túlio](https://img.shields.io/badge/-Shovon-blue?style=flat-square&logo=Facebook&logoColor=white&link=jtsoares)](https://www.facebook.com/minar.svn/)
 [![Gmail Badge](https://img.shields.io/badge/-minar@duck.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minar@duck.com)](mailto:minar@duck.com)
 
+<img src="https://raw.githubusercontent.com/sh0von/sh0von/main/svn.svg">
