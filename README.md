@@ -20,4 +20,4 @@
 
 [![Linkedin: João Túlio](https://img.shields.io/badge/-Shovon-blue?style=flat-square&logo=Facebook&logoColor=white&link=jtsoares)](https://www.facebook.com/minar.svn/)
 [![Gmail Badge](https://img.shields.io/badge/-minar@duck.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minar@duck.com)](mailto:minar@duck.com)
-![Snake animation]([https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg](https://github.com/sh0von/sh0von/blob/main/svn.svg))
+![Snake animation]([[https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg](https://github.com/sh0von/sh0von/blob/main/svn.svg)](https://github.com/sh0von/sh0von/blob/main/svn.svg))
