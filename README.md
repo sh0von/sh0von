@@ -18,14 +18,14 @@
  
  <h3> :earth_americas: &nbsp;Contact me on: </h3> 
 
-[![Linkedin: João Túlio](https://img.shields.io/badge/-jtsoares-blue?style=flat-square&logo=Facebook&logoColor=white&link=jtsoares)](https://www.facebook.com/minar.svn/)
-[![Gmail Badge](https://img.shields.io/badge/-joaotuliosoares@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minar@duck.com)](mailto:minar@duck.com)
+[![Linkedin: João Túlio](https://img.shields.io/badge/-Shovon-blue?style=flat-square&logo=Facebook&logoColor=white&link=jtsoares)](https://www.facebook.com/minar.svn/)
+[![Gmail Badge](https://img.shields.io/badge/-minar@duck.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minar@duck.com)](mailto:minar@duck.com)
 
  
 <div>
-  <a href="https://github.com/joaotuliojt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaotuliojt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaotuliojt&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/sh0von">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sh0von&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh0von&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
