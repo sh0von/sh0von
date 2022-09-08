@@ -10,7 +10,7 @@
 
 
 ### Tecnologias:
-<img src="https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=html&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+<img src="https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=html&logoColor=black"> <img src="https://img.shields.io/badge/php-007ACC?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/css-CC6699?style=for-the-badge&logo=css&logoColor=white">   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ### Frameworks:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
