@@ -15,14 +15,11 @@
 ### Frameworks:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### Banco de Dados:
- <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  
- 
- <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+ <h3> :earth_americas: &nbsp;Contact me on: </h3> 
 
-[![Linkedin: João Túlio](https://img.shields.io/badge/-jtsoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=jtsoares)](https://www.linkedin.com/in/jtsoares/)
-[![Gmail Badge](https://img.shields.io/badge/-joaotuliosoares@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaotuliosoares@hotmail.com)](mailto:joaotuliosoares@hotmail.com)
+[![Linkedin: João Túlio](https://img.shields.io/badge/-jtsoares-blue?style=flat-square&logo=Facebook&logoColor=white&link=jtsoares)](https://www.facebook.com/minar.svn/)
+[![Gmail Badge](https://img.shields.io/badge/-joaotuliosoares@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minar@duck.com)](mailto:minar@duck.com)
 
  
 <div>
