@@ -23,5 +23,4 @@
 
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh0von&theme=dark)](https://github.com/sh0von/)
-
- ![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)
