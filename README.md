@@ -2,7 +2,7 @@
 
 <h3> 🙋‍♂️ About Me </h3>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="">
+<img src="https://avatars.githubusercontent.com/u/37955335?v=4" min-width="400px" max-width="400px" width="400px" align="right" alt="">
 
 - 🤔 &nbsp; Skilled ad Ethical Hacking.
 - 💼 &nbsp; Noob Web Dev</a>.
