@@ -1,77 +1,37 @@
-<!-- README FILE CODE -->
+### About Me
+- [shahjalalshohag.com](https://shahjalalshohag.com/)
+- [linkedin/shahjalalshohag](https://www.linkedin.com/in/shahjalalshohag/)
+- [twitter/shahjalalsohag](https://twitter.com/shahjalalsohag)
+- [academy.shahjalalshohag.com](https://academy.shahjalalshohag.com/)
+- [blog.shahjalalshohag.com](https://blog.shahjalalshohag.com/home)
 
+### My Github Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShahjalalShohag&show_icons=true&count_private=true&theme=dark" alt="ShahjalalShohag" />
 
+### My Stacks
+#### Languages: C++ | Python | Javascript | Typescript | Solidity 
 
-<!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
-<h2 align=center>👋 Good to have you here!!</h2>
+#### Frontend: HTML | CSS | React | NextJS | Tailwind
 
+#### Backend: Python | FastAPI | PostgreSQL | JWT Auth | Pandas | Pydantic | Sentry | Redis | Pytest
 
-<!--ABOUT ME CODE-->
-🌱 **About myself**<br>
+#### Blockchain/Smart Contracts: Solidity | Javascript | Typescript | Web3.js | Python | Web3.py | Remix | Hardhat | Moralis | Web3uikit | Ethers | Mocha | Chai | Waffle | ChainLink | Typechain | Alchemy | Infura | Ganache
 
-✔️ I am **Riti Kumari**, currently pursuing my bachelors from UCET VBU,Hazaribagh in *Computer and Science Engineering*. <br>
+#### Others: Git | Docker | Latex | Linux | Vercel
 
-✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy doing competitive programming. <br>
+## My Handles
+ [<img src="https://img.shields.io/badge/ShahjalalShohag-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/shahjalal-shohag-394332156/)
+ [<img src="https://img.shields.io/badge/ShahjalalShohag-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/ShahjalalShohag) 
+ [<img src="https://img.shields.io/badge/YouKn0wWho-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/YouKn0wWho) 
+ [<img src="https://img.shields.io/badge/sjshohag-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/sjshohag) 
 
-✔️ I have experience in FULL stack web development .<br>
-
-✔️ I have been the participant of  open-source event such as HacktoberFest'20.
-
-<br>
-
-
-<!--NOMINATION FOR STAR GIT LINK CODE-->
-<a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
-
-
-<!-- SOCAIL MEDIA HANDLES -->
-[![Linkedin Badge](https://img.shields.io/badge/-RitiKumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sh0von/)](https://www.linkedin.com/in/sh0von/)
-
-[![Gmail Badge](https://img.shields.io/badge/-ritikumariupadhyay24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikumariupadhyay24@gmail.com)](mailto:ritikumariupadhyay24@gmail.com)
-
----
-
-<!-- STATISTICS ABOUT PROFILE -->
-
- 📶 Stats:<br><br>
- 
- 
-<!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh0von&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
- 
- ---
- 
-<!--  PROFILES VIEWS -->
-🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
-
-
-<!-- GITHUB STATISTICS -->
- ![Github stats](https://github-readme-stats.vercel.app/api?username=sh0von)  
- 
- 
- <hr>
+![Profile views](https://gpvc.arturio.dev/sh0von)
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sh0von&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
-         
-
----
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahjalalShohag&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
  
-<!-- ACTIVITY GRAPH TRACKER -->
-[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=sh0von&theme=react-dark)](https://github.com/sh0von/github-readme-activity-graph)
-
-  
-
----
-  </code>
-</p>
-
-
-<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=sh0von&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left) 
-<center><img src="https://logimp.files.wordpress.com/2019/01/viral-p-1.gif?w=736&zoom=2" align="right" width="30%"></center>
-
-
-
-
- -->
+ <!-- ACTIVITY GRAPH TRACKER -->
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=ShahjalalShohag&theme=react-dark)](https://github.com/ShahjalalShohag/github-readme-activity-graph)
+ 
+ <!--  TOP LANGUAGES STATISTICS -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahjalalShohag&theme=dark&layout=compact&align=right&width=40%)](https://github.com/ShahjalalShohag/github-readme-stats)
