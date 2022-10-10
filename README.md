@@ -43,7 +43,7 @@
  
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 
 <!-- GITHUB STATISTICS -->
