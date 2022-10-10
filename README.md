@@ -1,24 +1,77 @@
-
-
-<h3> 🙋‍♂️ About Me </h3>
-
-<img src="" min-width="400px" max-width="400px" width="400px" align="right" alt="">
-
-- 🤔 &nbsp; Skilled ad Ethical Hacking.
-- 💼 &nbsp; Noob Web Dev</a>.
+<!-- README FILE CODE -->
 
 
 
-### Tecnologias:
-<img src="https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=html&logoColor=black"> <img src="https://img.shields.io/badge/php-007ACC?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/css-CC6699?style=for-the-badge&logo=css&logoColor=white">   ![Styled Components](https://img.shields.io/badge/python-DB7093?style=for-the-badge&logo=python&logoColor=white)
+<!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
+<h2 align=center>👋 Good to have you here!!</h2>
 
-### Frameworks:
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+<!--ABOUT ME CODE-->
+🌱 **About myself**<br>
+
+✔️ I am **Riti Kumari**, currently pursuing my bachelors from UCET VBU,Hazaribagh in *Computer and Science Engineering*. <br>
+
+✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy doing competitive programming. <br>
+
+✔️ I have experience in FULL stack web development .<br>
+
+✔️ I have been the participant of  open-source event such as HacktoberFest'20.
+
+<br>
+
+
+<!--NOMINATION FOR STAR GIT LINK CODE-->
+<a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
+
+
+<!-- SOCAIL MEDIA HANDLES -->
+[![Linkedin Badge](https://img.shields.io/badge/-RitiKumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riti2409/)](https://www.linkedin.com/in/riti2409/)
+
+[![Gmail Badge](https://img.shields.io/badge/-ritikumariupadhyay24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikumariupadhyay24@gmail.com)](mailto:ritikumariupadhyay24@gmail.com)
+
+---
+
+<!-- STATISTICS ABOUT PROFILE -->
+
+ 📶 Stats:<br><br>
  
- <h3> :earth_americas: &nbsp;Contact me on: </h3> 
+ 
+<!--  TOP LANGUAGES STATISTICS -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riti2409&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ ---
+ 
+<!--  PROFILES VIEWS -->
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
 
-[![Linkedin: João Túlio](https://img.shields.io/badge/-Shovon-blue?style=flat-square&logo=Facebook&logoColor=white&link=jtsoares)](https://www.facebook.com/minar.svn/)
-[![Gmail Badge](https://img.shields.io/badge/-minar@duck.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minar@duck.com)](mailto:minar@duck.com)
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
+<!-- GITHUB STATISTICS -->
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=riti2409)  
+ 
+ 
+ <hr>
+ 
+<!--  CONTRIBUTION AND STREAK BLOCK -->
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riti2409&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+         
+
+---
+ 
+<!-- ACTIVITY GRAPH TRACKER -->
+[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=riti2409&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
+
+  
+
+---
+  </code>
+</p>
+
+
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=riti2409&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left) 
+<center><img src="https://logimp.files.wordpress.com/2019/01/viral-p-1.gif?w=736&zoom=2" align="right" width="30%"></center>
+
+
+
+
+ -->
