@@ -1,9 +1,9 @@
 ### About Me
-- [shahjalalshohag.com](https://shahjalalshohag.com/)
-- [linkedin/shahjalalshohag](https://www.linkedin.com/in/shahjalalshohag/)
+- [sh0von.com](https://sh0von.com/)
+- [linkedin/sh0von](https://www.linkedin.com/in/sh0von/)
 - [twitter/shahjalalsohag](https://twitter.com/shahjalalsohag)
-- [academy.shahjalalshohag.com](https://academy.shahjalalshohag.com/)
-- [blog.shahjalalshohag.com](https://blog.shahjalalshohag.com/home)
+- [academy.sh0von.com](https://academy.sh0von.com/)
+- [blog.sh0von.com](https://blog.sh0von.com/home)
 
 ### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShahjalalShohag&show_icons=true&count_private=true&theme=dark" alt="ShahjalalShohag" />
@@ -25,7 +25,7 @@
  [<img src="https://img.shields.io/badge/YouKn0wWho-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/YouKn0wWho) 
  [<img src="https://img.shields.io/badge/sjshohag-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/sjshohag) 
 
-![Profile views](https://gpvc.arturio.dev/sh0von)
+![Profile views](https://gpvc.arturio.dev/ShahjalalShohag)
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahjalalShohag&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
