@@ -25,7 +25,7 @@
  [<img src="https://img.shields.io/badge/YouKn0wWho-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/YouKn0wWho) 
  [<img src="https://img.shields.io/badge/sjshohag-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/sjshohag) 
 
-![Profile views](https://gpvc.arturio.dev/ShahjalalShohag)
+![Profile views](https://gpvc.arturio.dev/sh0von)
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sh0von&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
